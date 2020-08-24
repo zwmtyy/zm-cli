@@ -1,0 +1,22 @@
+{
+  "name": "zm-init",
+  "version": "1.0.0",
+  "description": "掌门脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwmtyy/zm-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "weiming.zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwmtyy/zm-cli/issues"
+  },
+  "homepage": "https://github.com/zwmtyy/zm-cli#readme"
+}
